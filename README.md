@@ -3,7 +3,7 @@
 規約はいつも通りこのへんに準拠  
 > <http://kisskiss.tv/kiss/diary.php?no=558>
 ## 導入方法
-CM3D2\Sybaris\GameData内に適当なフォルダを作成し、.blendファイル以外を全て入れてください。 
+CM3D2\Sybaris\GameData内に適当なフォルダを作成してファイルを全て入れてください。 
 ### ファイル内訳 
 <dl>
     <dt>modelファイル<dt>
