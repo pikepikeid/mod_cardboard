@@ -24,4 +24,6 @@ CM3D2\Sybaris\GameData内に適当なフォルダを作成してファイルを�
 <dl>
     <dt>なんか所々隙間が</dt>
     <dd>勘弁して</dd>
+    <dt>VTuber機能で使っても良い？</dt>
+    <dd>いいけど、これ何に使うの…</dd>
 </dl>
